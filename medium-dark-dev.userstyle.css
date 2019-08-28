@@ -1,4 +1,4 @@
-@media(prefers-color-scheme: dark) {
+@-moz-document domain("medium.com") {
 
   /* Disable */
   div:not(.bp) {
