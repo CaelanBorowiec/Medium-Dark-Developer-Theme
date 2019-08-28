@@ -43,4 +43,12 @@
     backdrop-filter: blur(10px) saturate(125%);
     padding-bottom: 5px;
   }
+
+  .gist .highlight {
+    background: #333;
+  }
+
+  .gist .blob-code, .gist .blob-num {
+    color: #7a81a9;
+  }
 }
